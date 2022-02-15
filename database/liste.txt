@@ -9,3 +9,4 @@ kit    Kit oreillette
 taser    Tasers
 lacrymo    Bombes lacrymogenes
 pistolet    Pistolet 9 mm
+fusil    Fusil à pompe
