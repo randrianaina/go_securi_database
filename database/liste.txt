@@ -10,4 +10,4 @@ taser    Tasers
 lacrymo    Bombes lacrymogenes
 pistolet    Pistolet 9 mm
 fusil    Fusil à pompe
-sabre	Sabre super Long
+poing	Poing américain
