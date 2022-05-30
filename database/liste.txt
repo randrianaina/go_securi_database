@@ -10,4 +10,4 @@ taser    Tasers
 lacrymo    Bombes lacrymogenes
 pistolet    Pistolet 9 mm
 fusil    Fusil à pompe
-poing	Poing américain
+poing	Poings américain
